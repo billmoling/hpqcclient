@@ -1,4 +1,4 @@
 hpqcclient
 ==========
 
-HPQC Java Client
+HPQC Java Client V1
